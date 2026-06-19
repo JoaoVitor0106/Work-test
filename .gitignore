@@ -1,0 +1,20 @@
+# Variáveis de ambiente (nunca subir para o repositório)
+.env
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.egg-info/
+
+# Logs
+*.log
